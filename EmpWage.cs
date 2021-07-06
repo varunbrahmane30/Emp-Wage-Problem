@@ -10,7 +10,8 @@ namespace EmpWage
             //UC1EmpPresentOrNot.AtttendaceCheck();
             //UC2DailyWage.calDailyWage();
             //UC3AddPartTimeEmpWage.addPartTimeEmpWage();
-            UC4UsingSwitch.usingSwitch();
+            //UC4UsingSwitch.usingSwitch();
+            UC5CalWageForMonth.calWageForMonth();
             Console.ReadKey();
         }
     }
