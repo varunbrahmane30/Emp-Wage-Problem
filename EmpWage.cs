@@ -11,7 +11,8 @@ namespace EmpWage
             //UC2DailyWage.calDailyWage();
             //UC3AddPartTimeEmpWage.addPartTimeEmpWage();
             //UC4UsingSwitch.usingSwitch();
-            UC5CalWageForMonth.calWageForMonth();
+            // UC5CalWageForMonth.calWageForMonth();
+            UC6CalWageTillCondition.calWageTillConditionReached();
             Console.ReadKey();
         }
     }
