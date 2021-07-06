@@ -8,7 +8,8 @@ namespace EmpWage
         {
             Console.WriteLine("Welcome to Emp Wage program.");
             //UC1EmpPresentOrNot.AtttendaceCheck();
-            UC2DailyWage.calDailyWage();
+            //C2DailyWage.calDailyWage();
+            UC3AddPartTimeEmpWage.addPartTimeEmpWage();
             Console.ReadKey();
         }
     }
